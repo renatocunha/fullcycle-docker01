@@ -1,4 +1,4 @@
 #!/bin/bash
 set -e
 
-docker build . -t cunharenatodev/fullcycle && docker run --rm -ti cunharenatodev/fullcycle
+docker build . -t renatocunha/fullcycle && docker run --rm -ti renatocunha/fullcycle
